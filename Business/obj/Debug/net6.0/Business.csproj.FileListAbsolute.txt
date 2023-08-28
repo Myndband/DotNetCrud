@@ -1,0 +1,15 @@
+E:\ASP Dot Net\Projects\Business\bin\Debug\net6.0\Business.deps.json
+E:\ASP Dot Net\Projects\Business\bin\Debug\net6.0\Business.dll
+E:\ASP Dot Net\Projects\Business\bin\Debug\net6.0\Business.pdb
+E:\ASP Dot Net\Projects\Business\bin\Debug\net6.0\ModelProject.dll
+E:\ASP Dot Net\Projects\Business\bin\Debug\net6.0\ModelProject.pdb
+E:\ASP Dot Net\Projects\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+E:\ASP Dot Net\Projects\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP Dot Net\Projects\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+E:\ASP Dot Net\Projects\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+E:\ASP Dot Net\Projects\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+E:\ASP Dot Net\Projects\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+E:\ASP Dot Net\Projects\Business\obj\Debug\net6.0\Business.dll
+E:\ASP Dot Net\Projects\Business\obj\Debug\net6.0\refint\Business.dll
+E:\ASP Dot Net\Projects\Business\obj\Debug\net6.0\Business.pdb
+E:\ASP Dot Net\Projects\Business\obj\Debug\net6.0\ref\Business.dll

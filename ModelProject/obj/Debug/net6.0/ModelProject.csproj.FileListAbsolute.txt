@@ -1,0 +1,14 @@
+E:\ASP Dot Net\Projects\ModelProject\bin\Debug\net6.0\ModelProject.deps.json
+E:\ASP Dot Net\Projects\ModelProject\bin\Debug\net6.0\ModelProject.dll
+E:\ASP Dot Net\Projects\ModelProject\bin\Debug\net6.0\ModelProject.pdb
+E:\ASP Dot Net\Projects\ModelProject\obj\Debug\net6.0\ModelProject.csproj.AssemblyReference.cache
+E:\ASP Dot Net\Projects\ModelProject\obj\Debug\net6.0\ModelProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP Dot Net\Projects\ModelProject\obj\Debug\net6.0\ModelProject.AssemblyInfoInputs.cache
+E:\ASP Dot Net\Projects\ModelProject\obj\Debug\net6.0\ModelProject.AssemblyInfo.cs
+E:\ASP Dot Net\Projects\ModelProject\obj\Debug\net6.0\ModelProject.csproj.CoreCompileInputs.cache
+E:\ASP Dot Net\Projects\ModelProject\obj\Debug\net6.0\ModelProject.dll
+E:\ASP Dot Net\Projects\ModelProject\obj\Debug\net6.0\refint\ModelProject.dll
+E:\ASP Dot Net\Projects\ModelProject\obj\Debug\net6.0\ModelProject.pdb
+E:\ASP Dot Net\Projects\ModelProject\obj\Debug\net6.0\ref\ModelProject.dll
+E:\ASP Dot Net\Projects\ModelProject\bin\Debug\net6.0\ModelProject.runtimeconfig.json
+E:\ASP Dot Net\Projects\ModelProject\obj\Debug\net6.0\ModelProject.genruntimeconfig.cache
